@@ -5,7 +5,7 @@ This is normally not a problem but I found it tedious. This extension will solve
 
 ## Shortcuts / Commands
 
-__Command    |     Help Text
+  **Command**    |     Help Text
 
 `!T@home`    |     *Creates a home page template
 
@@ -17,7 +17,7 @@ __Command    |     Help Text
 
 ## Release Notes
 
-__[1.0.0]
+[1.0.0]
 Initial release of Webpage template with materialize CSS
 
 ## Known Issues
