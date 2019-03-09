@@ -1,4 +1,8 @@
 # Change Log
+
+## [1.0.1]
+- Added readme
+
 ## [1.0.0]
 
 - Initial release
