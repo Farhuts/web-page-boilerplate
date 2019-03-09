@@ -5,7 +5,7 @@ This is normally not a problem but I found it tedious. This extension will solve
 
 ## Shortcuts / Commands
 
-Command      |      Help Text
+**Command    |     Help Text
 
 !T@home      |     Creates a home page template
 
@@ -13,7 +13,7 @@ Command      |      Help Text
 
 !T@gallery   |     Creates a grid gallery page template
 
-!T@form      |      Creates a login/signup page template
+!T@form      |     Creates a login/signup page template
 
 ## Release Notes
 
