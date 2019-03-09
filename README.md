@@ -5,7 +5,11 @@ This is normally not a problem but I found it tedious. This extension will solve
 
 ## Shortcuts / Commands
 
+<<<<<<< HEAD
 **Command** |     **Help Text**
+=======
+ **Command** |     **Help Text**
+>>>>>>> de6867db3ccb0889685c22ddd1f2cda1c8faf6f9
 
 `!T@home`    |     *Creates a home page template*
 
