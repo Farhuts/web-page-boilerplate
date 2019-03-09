@@ -5,10 +5,12 @@ This is normally not a problem but I found it tedious. This extension will solve
 
 ## Shortcuts / Commands
 
-`Command`          `Help Text`
-
+Command      |       Help Text
+_____________|___________________________________________________
 !T@home            Creates a home page template
+_____________|___________________________________________________
 !T@about           Creates an about-us/our story page template
+_____________|___________________________________________________
 !T@gallery         Creates a grid gallery page template
 !T@form            Creates a login/signup page template
 
