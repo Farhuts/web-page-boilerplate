@@ -7,13 +7,13 @@ This is normally not a problem but I found it tedious. This extension will solve
 
 **Command      |     Help Text
 
-`!T@home`      |     *Creates a home page template
+`!T@home   `   |     *Creates a home page template
 
-`!T@about`     |     *Creates an about-us/our story page template
+`!T@about  `   |     *Creates an about-us/our story page template
 
 `!T@gallery`   |     *Creates a grid gallery page template
 
-`!T@form`      |     *Creates a login/signup page template
+`!T@form   `   |     *Creates a login/signup page template
 
 ## Release Notes
 
