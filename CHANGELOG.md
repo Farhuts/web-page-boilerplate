@@ -1,8 +1,6 @@
 # Change Log
-## [1.0.2]
-- Changed readme
 
-## [1.0.1]
+## [1.1.0]
 - Added readme
 
 ## [1.0.0]
