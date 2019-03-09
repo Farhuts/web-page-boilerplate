@@ -16,6 +16,9 @@ This is normally not a problem but I found it tedious. This extension will solve
 
 `!T@form`    |     *Creates a login/signup page template*
 
+## Using the snippet
+![alt text](images/visualgif “Using the snippet”)
+
 ## Release Notes
 
 **[1.0.0]**
